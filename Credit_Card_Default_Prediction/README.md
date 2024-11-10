@@ -45,3 +45,9 @@ Setup
 #### Prerequisites
 Python
 Libraries: Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib, and others as listed in requirements.txt
+### Building and hosting a Flask web app on VSCODE.
+    Build the web app using Flask API
+    Upload the project on GitHub
+    Get the customer information from Web app
+    Display the prediction
+
